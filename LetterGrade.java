@@ -1,4 +1,4 @@
-/*Programmer: Antonia Johnson 
+/*Programmer: Annab Johnson 
   Program: Translate letter grade
   Date: 3/2/2020
   Purpose: program translates a letter grade into a number grade. Letter grades are A, B, C, D, and F, possibly followed by + or –. Their numeric values are 4, 3, 2, 1, and 0. 
